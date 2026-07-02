@@ -54,7 +54,7 @@ Estou construindo uma base sólida em Dados, IA e Machine Learning, com projetos
 | 7 | Deep Learning & MLOps | 🔜 |
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adaltonvieira&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="trophies"/>
+  <img src="https://github-profile-trophy-taupe-one.vercel.app/?username=adaltonvieira&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="trophies"/>
 </p>
 
 <br>
@@ -77,8 +77,8 @@ Estou construindo uma base sólida em Dados, IA e Machine Learning, com projetos
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adaltonvieira&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adaltonvieira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" height="165"/>
+  <img src="https://github-readme-stats-ruddy-omega-77.vercel.app/api?username=adaltonvieira&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" height="165"/>
+  <img src="https://github-readme-stats-ruddy-omega-77.vercel.app/api/top-langs/?username=adaltonvieira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" height="165"/>
 </p>
 
 <p align="center">
