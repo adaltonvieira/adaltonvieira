@@ -54,7 +54,7 @@ Estou construindo uma base sólida em Dados, IA e Machine Learning, com projetos
 | 7 | Deep Learning & MLOps | 🔜 |
 
 <p align="center">
-  <img src="https://github-profile-trophy-taupe-one.vercel.app/?username=adaltonvieira&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="trophies"/>
+  <img src="https://github-profile-trophy-nine-gilt.vercel.app/?username=adaltonvieira&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="trophies"/>
 </p>
 
 <br>
